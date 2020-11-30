@@ -1,19 +1,15 @@
-### Hi there 👋
+### :octocat: All the statistics
 
-<!--
-**blaze-github/blaze-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![github stats](https://github-readme-stats.vercel.app/api?username=blaze-github&show_icons=true&hide_title=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blaze-github&layout=compact)
 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/blaze-github/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/blaze-github/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/blaze-github/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+### :octopus: Octo-Ring
+
+<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+
+I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
+
+* [previous profile](https://octo-ring.com/p/splitbrain/prev)
+* [random profile](https://octo-ring.com/p/splitbrain/random)
+* [next profile](https://octo-ring.com/p/splitbrain/next)
