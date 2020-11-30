@@ -12,9 +12,9 @@
 I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
 
 <a href="https://octo-ring.com/p/splitbrain/prev">
-<img src='https://raster.shields.io/badge/%20-Previous%20profile-blue.svg?style=for-the-badge'>
+<img src='https://raster.shields.io/badge/%20-Previous%20profile-purple.svg?style=for-the-badge'>
  </a><a href="https://octo-ring.com/p/splitbrain/random">
-<img src='https://raster.shields.io/badge/%20-Random%20profile-blue.svg?style=for-the-badge'>
+<img src='https://raster.shields.io/badge/%20-Random%20profile-purple.svg?style=for-the-badge'>
  </a><a href="https://octo-ring.com/p/splitbrain/next">
-<img src='https://raster.shields.io/badge/%20-Next%20profile-blue.svg?style=for-the-badge'>
+<img src='https://raster.shields.io/badge/%20-Next%20profile-purple.svg?style=for-the-badge'>
  </a>
