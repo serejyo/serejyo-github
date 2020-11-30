@@ -10,6 +10,10 @@
 
 I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
 
-* [previous profile](https://octo-ring.com/p/splitbrain/prev)
-* [random profile](https://octo-ring.com/p/splitbrain/random)
-* [next profile](https://octo-ring.com/p/splitbrain/next)
+<a href="https://octo-ring.com/p/splitbrain/prev">
+<img src='https://raster.shields.io/badge/%20-Previous%20profile-gray.svg?style=for-the-badge'>
+ </a><a href="https://octo-ring.com/p/splitbrain/random">
+<img src='https://raster.shields.io/badge/%20-Random%20profile-gray.svg?style=for-the-badge'>
+ </a><a href="https://octo-ring.com/p/splitbrain/next">
+<img src='https://raster.shields.io/badge/%20-Next%20profile-gray.svg?style=for-the-badge'>
+ </a>
