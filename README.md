@@ -7,7 +7,7 @@
 
 ### :octopus: Octo-Ring
 
-<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+<a href="https://octo-ring.com/"><img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt=""></a>
 
 I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
 
